@@ -20,6 +20,7 @@
     _groups=[[NSArray alloc] initWithObjects:@"1",@"2",@"3",@"4",@"5",@"6",@"7",@"8",@"9",@"10",nil];
 //    _groups2=[[NSMutableArray alloc]init];
 //    _groups3=[[NSArray alloc]init];
+        NSLog(@"hahah");
     
 
 
